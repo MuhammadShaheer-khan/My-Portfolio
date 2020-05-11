@@ -1,0 +1,61 @@
+.bgimg {
+    background-image: url("https://wallpapertag.com/wallpaper/full/3/8/8/479189-top-cool-color-backgrounds-1920x1080-windows-10.jpg");
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+
+
+.headerset {
+    padding-top: 240px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+    font-size: 42px;
+}
+
+.headerset h1 {
+    font-size: 82px;
+    font-weight: bold;
+}
+
+
+/* //////////////////SERVICES///////////////// */
+
+.ourservices {
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+
+
+.ourservices h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting {
+    margin: 80px 0px !important;
+}
+
+.imgsetting {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.fab {
+    margin-top: 22px;
+}
+
+.rowsetting h2 {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.rowsetting p {
+    color: rgb(129, 127, 124);
+    padding: 10px;
+}
