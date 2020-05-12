@@ -59,3 +59,47 @@
     color: rgb(129, 127, 124);
     padding: 10px;
 }
+
+
+/* /////////////////////////////////portfolio//////////////////////// */
+
+.portfolio {
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.portfolio h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card {
+    margin-top: 40px;
+}
+
+
+/* /////////////////OUR TEAm/////////////////// */
+
+.ourteam {
+    height: 700px;
+    padding: 100px 0px 50px;
+    width: 100%;
+}
+
+.ourteam h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.teamsetting {
+    margin-top: 75px;
+}
+/* ///////////////////////FOOTER////////////////// */
+.footer {
+    height: 50px;
+}
+
+.footer h5 {
+    line-height: 50px;
+}
